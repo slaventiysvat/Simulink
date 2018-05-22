@@ -1,0 +1,7 @@
+#gitignore
+*.m~
+*.docx
+*.png
+*.wav
+*.mp3
+*.ogg
